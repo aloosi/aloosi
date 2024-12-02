@@ -23,6 +23,11 @@ I'm Ahmad Al-Aloosi, a passionate **Data Analyst** and **Developer** with a stro
 
 ## 🚀 Projects
 
+### 🕌 [Just Athan Web](https://github.com/aloosi/just-athan-web)
+- Developed a **React-based athan app** to provide prayer times and reminders.
+- Integrated real-time user location detection for accurate time calculations.
+- Enhanced user experience with a clean, responsive design and intuitive interface.
+
 ### 🌍 [Travel Agency Reservation System](https://github.com/aloosi/travel-agency-system)
 - Built a **full-stack web app** using **Go** and **React** with real-time updates, handling over 500 requests/sec.
 - Optimized query performance with **Redis caching**, achieving 20% faster response times.
@@ -32,16 +37,6 @@ I'm Ahmad Al-Aloosi, a passionate **Data Analyst** and **Developer** with a stro
 - Developed a **real-time app** for identifying dog breeds with a 92.7% accuracy rate using **YOLOv8**.
 - Deployed on **AWS EC2** with GPU support, achieving 99.9% uptime through auto-scaling.
 
-### 📚 [Student Registry Simulator](https://github.com/aloosi/student-registry-simulator)
-- Created a **Java-based simulator** with CRUD functionality, binary search, and robust error handling for data management.
-
-### 🍴 [La Shawarma Store Website](https://github.com/aloosi/la-shawarma-website)
-- Designed a responsive, SEO-optimized website using **WordPress** and **custom HTML/CSS**, increasing online engagement by 40%.
-
-### 🕌 [Just Athan Web](https://github.com/aloosi/just-athan-web)
-- Developed a **React-based athan app** to provide prayer times and reminders.
-- Integrated real-time user location detection for accurate time calculations.
-- Enhanced user experience with a clean, responsive design and intuitive interface.
 
 ---
 
