@@ -28,7 +28,7 @@ I'm Ahmad Al-Aloosi, a passionate **Data Analyst** and **Developer** with a stro
 - Integrated real-time user location detection for accurate time calculations.
 - Enhanced user experience with a clean, responsive design and intuitive interface.
 
-### 🌍 [Travel Agency Reservation System](https://github.com/aloosi/travel-agency-system)
+### 🌍 [Travel Agency Reservation System](https://github.com/aloosi/flightsystem)
 - Built a **full-stack web app** using **Go** and **React** with real-time updates, handling over 500 requests/sec.
 - Optimized query performance with **Redis caching**, achieving 20% faster response times.
 - Deployed on **AWS** with auto-scaling and high availability.
