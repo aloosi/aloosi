@@ -53,7 +53,7 @@ I'm Ahmad Al-Aloosi, a passionate **Data Analyst** and **Developer** with a stro
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aloosi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloosi&layout=compact&theme=radical)
+![Top Langs]()
 
 ---
 
